@@ -8,7 +8,7 @@ Este projeto é uma simulação de uma página de venda do modelo **911 Carrera 
 
 ### Tablet
 
-![Tablet](image-1.png)
+![Tablet](tablet.png)
 
 ### Mobile
 
