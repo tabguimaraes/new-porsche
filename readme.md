@@ -12,7 +12,7 @@ Este projeto é uma simulação de uma página de venda do modelo **911 Carrera 
 
 ### Mobile
 
-![Mobile](image-2.png)
+![Mobile](mobile.png)
 
 ## ✨ Objetivo
 
